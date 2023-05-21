@@ -1,1 +1,1 @@
-C variables and conditions
+C Variables and conditionals
