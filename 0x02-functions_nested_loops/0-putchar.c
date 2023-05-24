@@ -1,4 +1,8 @@
 #include "main.h"
+/**
+ *_putchar:prints putchar follow by a new line
+ * Return:0 on Success
+ */
 
 int main(void)
 {
