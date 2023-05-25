@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /**
  * main - A function that prints positive or  negative numbers
  * Return:0 for success
