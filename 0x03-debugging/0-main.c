@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - A function that prints positive or  negative numbers
- * Return:0 for success
+ * Return:0 on success
  */
 
 int main(void)
